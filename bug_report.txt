@@ -1,1 +1,23 @@
+ID  1
 
+Severity: Major
+
+Environment: "Win 10 Chrome 114
+             Windows 11, Chrome 114
+            MacOS Big Sur 11.6 (Safari 14.1.2, Chrome 112)"
+
+Title: The button [Buy] is not clickable  in the block "Trading calculator" in menu section [ CFD calculator]
+
+Steps:  1. Navigate to capital.com 
+        2. Hover over the menu section [Markets] 
+        3. Click menu section [CFD Calculator]
+        4. Scroll down to block ""Trading calculator""
+        5. Click button [Buy]
+
+Expected Result: The button [Buy] is clickable and redirection to "Sign up" page is taking place
+
+Actual Result: The button [Buy] is not clickable and redirection to "Sign up" page is not taking place
+
+License: All
+
+Role (unregistered, unauthorized, authorized, All): All
